@@ -43,7 +43,7 @@ The **SVM model** performed slightly better and was selected for deployment.
 
 ## 🌐 Web Application (Streamlit)
 **The Streamlit application allows users to:**
-- Enter patient medical details
+- Enter patient medical details        
 - Get real-time diabetes risk predictions
 - View probability-based risk indicators
 - Understand key health risk factors
@@ -61,13 +61,15 @@ git clone https://github.com/shahnawaz75m/diabetes-risk-prediction.git
 cd diabetes-risk-prediction
 
 ## 2️⃣ Create a Virtual Environment
-**On Windows**
-python -m venv venv
-venv\Scripts\activate
 
-**On macOS / Linux**
-python3 -m venv venv
-source venv/bin/activate
+## 2️⃣ Create a Virtual Environment
+**On Windows**\
+*1. python -m venv venv*\
+*2. venv\Scripts\activate*
+
+**On macOS / Linux**\
+*1. python3 -m venv venv*\
+*2. source venv/bin/activate*
 
 ## 3️⃣ Install Dependencies
 pip install -r requirements.txt
