@@ -78,12 +78,12 @@ streamlit run app.py
 **After running this command, open the local URL shown in the terminal (usually http://localhost:8501) in your browser.**
 
 ## 📌 Key Learnings
-Importance of preprocessing real medical data.
-Handling missing and invalid values correctly.
-Comparing multiple machine learning models.
-Understanding evaluation metrics beyond accuracy.
-Deploying ML models using Streamlit.
-Presenting ML solutions responsibly in healthcare.
+- Importance of preprocessing real medical data
+- Handling missing and invalid values correctly
+- Comparing multiple machine learning models
+- Understanding evaluation metrics beyond accuracy
+- Deploying ML models using Streamlit
+- Presenting ML solutions responsibly in healthcare
 
 
 ## ⚠️ Disclaimer
