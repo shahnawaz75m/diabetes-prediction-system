@@ -1,0 +1,15 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+plotly
+joblib
+streamlit
+#these are the dependencies 
+#numpy and pandas are basically used for the data handling
+#scikit -learn for machine learning library
+#for visualization we have matplotlib and seaborn
+#and for saving our model we have to used joblib
+#and for web interface we r going to use streamlit and plotly
+ 
