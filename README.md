@@ -3,6 +3,8 @@
 An end-to-end Machine Learning project that predicts the risk of diabetes using real-world healthcare data.  
 The project covers data preprocessing, exploratory data analysis (EDA), model training and evaluation, and an interactive web application built with Streamlit.
 
+## 🌐 Live App: https://diabetes-risk-system.streamlit.app/
+
 ## Project Overview
 
 Diabetes is a chronic disease where early diagnosis and preventive care play a critical role.  
