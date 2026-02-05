@@ -1,3 +1,5 @@
+streamlit>=1.31.0
+altair<5
 numpy
 pandas
 scikit-learn
@@ -5,7 +7,6 @@ matplotlib
 seaborn
 plotly
 joblib
-streamlit
 #these are the dependencies 
 #numpy and pandas are basically used for the data handling
 #scikit -learn for machine learning library
